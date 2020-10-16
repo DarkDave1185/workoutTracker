@@ -24,5 +24,5 @@ Fill out the form to keep track and motivate to complete workout tasks. A consum
 
 ## ScreenShots
 
-![workout-input](public/images/screenshot.jpg)
-![workout-dashboard](public/images/screenshot2.jpg)
+![workout-input](public\images\screenshot.JPG)
+![workout-dashboard](public\images\screenshot2.JPG)
